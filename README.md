@@ -9,6 +9,7 @@ On word submission the word the matched with the word that has been selected ran
 If the user guesses incorrectly the word then all the keys that he entered before are disabled on the screen keyboard.
 If a letter from the entered word exists in the correct word but is in the wrong position it is highlighted in yellow.
 If a letter from the extered word exists in the correct word and is in the correct position it is highlighted green.
+If letters from word don't exist on the correct word their background is changed to grey
 
 In case user is unabled to guess the word the onscreen keyboard is replaced by details for the game and the correct word is shown and a retry button is displayed which can be used to refresh the page and restart the game.
 
