@@ -11,3 +11,5 @@ If a letter from the entered word exists in the correct word but is in the wrong
 If a letter from the extered word exists in the correct word and is in the correct position it is highlighted green.
 
 In case user is unabled to guess the word the onscreen keyboard is replaced by details for the game and the correct word is shown and a retry button is displayed which can be used to refresh the page and restart the game.
+
+In case the user guesses correctly. The same details are shown but the user is also shown in how many attempts they got the word correct in.
